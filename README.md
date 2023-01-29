@@ -132,6 +132,7 @@ Write HTML and CSS code for designing book cover page and execute user
 ```
 
 ## OUTPUT:
+![img](yambook.png)
 
 ## Result:
 
